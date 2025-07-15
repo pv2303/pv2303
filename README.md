@@ -7,7 +7,7 @@
 - 📫 Feel free to reach me out at paulovitoorr@outlook.com
 
 ## Git Stats
-![pv2303's Stats](https://github-readme-stats.vercel.app/api?username=pv2303&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![pv2303's Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pv2303&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![pv2303's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pv2303&theme=cobalt&show_icons=true&hide_border=false&layout=compact)
 
 ## 🛠️ Techonologies and Tools
