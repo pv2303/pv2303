@@ -3,7 +3,7 @@
 - 🎓 Master's in Economics with focus on Urban Analysis and Quantitative Methods
 - 🖥️ Skilled in R, Python and SQL
 - 🖋️ Specialist in Econometrics, Time Series Modeling
-- 🌱 I’m currently learning R, SQL and python
+- 🌱 Currently learning Java
 - 📫 Feel free to reach me out at paulovitoorr@outlook.com
 
 ## Git Stats
